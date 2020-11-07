@@ -1,0 +1,11 @@
+{
+    "bot": {
+        "token": "TOKEN",
+        "prefix": "!"
+    },
+    "status": {
+        "name": "with prizes",
+        "type": "PLAYING",
+        "status": "online"
+    }
+}
